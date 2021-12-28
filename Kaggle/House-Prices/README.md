@@ -4,5 +4,7 @@
 ---------------------------------------------------------------------------
 
 1. Regularized Linear Models
+  (https://www.kaggle.com/apapiu/regularized-linear-models)
 
-(https://www.kaggle.com/apapiu/regularized-linear-models)
+2. House Prices EDA
+(https://www.kaggle.com/dgawlik/house-prices-eda/notebook)
